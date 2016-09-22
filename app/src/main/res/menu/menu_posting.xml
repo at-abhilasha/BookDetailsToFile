@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inventory.kp.PostingActivity">
+    <item
+        android:id="@+id/action_send"
+        android:orderInCategory="100"
+        android:title="@string/menu_post"
+        android:icon="@android:drawable/ic_menu_send"
+        app:showAsAction="always" />
+</menu>

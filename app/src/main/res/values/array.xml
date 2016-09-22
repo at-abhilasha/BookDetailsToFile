@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="select_photo_options">
+        <item>@string/camera_option</item>
+        <item>@string/gallery_option</item>
+    </string-array>
+
+    <string-array name="book_cover_options">
+        <item>@string/selection_none_option</item>
+        <item>@string/book_hardcover_option</item>
+        <item>@string/book_paperback_option</item>
+    </string-array>
+
+    <string-array name="book_type_options">
+        <item>@string/selection_none_option</item>
+        <item>@string/book_activity_option</item>
+        <item>@string/book_story_option</item>
+    </string-array>
+</resources>
